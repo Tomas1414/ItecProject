@@ -1,0 +1,1253 @@
+[
+ {
+   "Outbreak_ID": "a215X0000001uzq",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/01/02",
+   "End_Date": "2021/01/12",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 189
+ },
+ {
+   "Outbreak_ID": "a215X0000001v0t",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/01/02",
+   "End_Date": "2021/01/08",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 190
+ },
+ {
+   "Outbreak_ID": "a215X0000001v4H",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/01/03",
+   "End_Date": "2021/01/16",
+   "Total_Cases": 6,
+   "Total_Deaths": 0,
+   "OBJECTID": 191
+ },
+ {
+   "Outbreak_ID": "a215X0000001v7u",
+   "Setting": "Workplace - Construction",
+   "Start_Date": "2021/01/03",
+   "End_Date": "2021/01/06",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 192
+ },
+ {
+   "Outbreak_ID": "a215X0000001wjU",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/01/06",
+   "End_Date": "2021/01/08",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 194
+ },
+ {
+   "Outbreak_ID": "a215X0000001wsg",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/01/06",
+   "End_Date": "2021/01/08",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 195
+ },
+ {
+   "Outbreak_ID": "a215X0000001wW6",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/01/06",
+   "End_Date": "2021/01/08",
+   "Total_Cases": 6,
+   "Total_Deaths": 0,
+   "OBJECTID": 196
+ },
+ {
+   "Outbreak_ID": "a215X0000001wYq",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/01/06",
+   "End_Date": "2021/01/20",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 197
+ },
+ {
+   "Outbreak_ID": "a215X0000001xwq",
+   "Setting": "Workplace - Distribution",
+   "Start_Date": "2021/01/08",
+   "End_Date": "2021/01/20",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 202
+ },
+ {
+   "Outbreak_ID": "a215X0000001xqd",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/01/09",
+   "End_Date": "2021/01/09",
+   "Total_Cases": 8,
+   "Total_Deaths": 0,
+   "OBJECTID": 198
+ },
+ {
+   "Outbreak_ID": "a215X0000001y4f",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/01/11",
+   "End_Date": "2021/01/22",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 203
+ },
+ {
+   "Outbreak_ID": "a215X0000001yL7",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/01/12",
+   "End_Date": "2021/01/23",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 204
+ },
+ {
+   "Outbreak_ID": "a215X0000001yye",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/01/13",
+   "End_Date": "2021/01/20",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 206
+ },
+ {
+   "Outbreak_ID": "a215X0000001zmB",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/01/15",
+   "End_Date": "2021/01/27",
+   "Total_Cases": 1,
+   "Total_Deaths": 0,
+   "OBJECTID": 208
+ },
+ {
+   "Outbreak_ID": "a215X00000020Mq",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/01/16",
+   "End_Date": "2021/01/26",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 209
+ },
+ {
+   "Outbreak_ID": "a215W0000000juH",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/01/19",
+   "End_Date": "2021/01/24",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 0
+ },
+ {
+   "Outbreak_ID": "a215W0000000jvt",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/01/19",
+   "End_Date": "2021/01/30",
+   "Total_Cases": 1,
+   "Total_Deaths": 0,
+   "OBJECTID": 1
+ },
+ {
+   "Outbreak_ID": "a215W0000000k3Y",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/01/20",
+   "End_Date": "2021/01/30",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 2
+ },
+ {
+   "Outbreak_ID": "a215W0000000kC6",
+   "Setting": "Multi-unit Dwelling",
+   "Start_Date": "2021/01/21",
+   "End_Date": "2021/01/22",
+   "Total_Cases": 6,
+   "Total_Deaths": 0,
+   "OBJECTID": 3
+ },
+ {
+   "Outbreak_ID": "a215W0000000kCB",
+   "Setting": "Workplace - Manufacturing",
+   "Start_Date": "2021/01/21",
+   "End_Date": "2021/01/27",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 4
+ },
+ {
+   "Outbreak_ID": "a215W0000000kGm",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/01/22",
+   "End_Date": "2021/01/25",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 5
+ },
+ {
+   "Outbreak_ID": "a215W0000000kHa",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/01/22",
+   "End_Date": "2021/01/23",
+   "Total_Cases": 1,
+   "Total_Deaths": 0,
+   "OBJECTID": 6
+ },
+ {
+   "Outbreak_ID": "a215W0000000kLw",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/01/23",
+   "End_Date": "2021/01/25",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 7
+ },
+ {
+   "Outbreak_ID": "a215W0000000kMz",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/01/23",
+   "End_Date": "2021/01/30",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 8
+ },
+ {
+   "Outbreak_ID": "a215W0000000kPP",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/01/23",
+   "End_Date": "2021/01/28",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 9
+ },
+ {
+   "Outbreak_ID": "a215W0000000krY",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/01/29",
+   "End_Date": "2021/03/05",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 10
+ },
+ {
+   "Outbreak_ID": "a215W0000000ku8",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/01/29",
+   "End_Date": "2021/02/04",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 11
+ },
+ {
+   "Outbreak_ID": "a215W0000000kxM",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/01/30",
+   "End_Date": "2021/01/30",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 12
+ },
+ {
+   "Outbreak_ID": "a215W0000000lbt",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/01/31",
+   "End_Date": "2021/02/10",
+   "Total_Cases": 9,
+   "Total_Deaths": 3,
+   "OBJECTID": 13
+ },
+ {
+   "Outbreak_ID": "a215W0000000ljJ",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/02/01",
+   "End_Date": "2021/03/11",
+   "Total_Cases": 13,
+   "Total_Deaths": 0,
+   "OBJECTID": 14
+ },
+ {
+   "Outbreak_ID": "a215W0000000lmw",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/02/02",
+   "End_Date": "2021/03/05",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 15
+ },
+ {
+   "Outbreak_ID": "a215W0000000ltn",
+   "Setting": "Workplace - Manufacturing",
+   "Start_Date": "2021/02/03",
+   "End_Date": "2021/02/20",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 16
+ },
+ {
+   "Outbreak_ID": "a215W0000000luR",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/02/03",
+   "End_Date": "2021/02/16",
+   "Total_Cases": 5,
+   "Total_Deaths": 1,
+   "OBJECTID": 17
+ },
+ {
+   "Outbreak_ID": "a215W0000000m8T",
+   "Setting": "Workplace - Hotel/Bed & Breakfast",
+   "Start_Date": "2021/02/05",
+   "End_Date": "2021/02/20",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 18
+ },
+ {
+   "Outbreak_ID": "a215W0000000mPy",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/02/09",
+   "End_Date": "2021/02/23",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 20
+ },
+ {
+   "Outbreak_ID": "a215W0000000mSY",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/02/09",
+   "End_Date": "2021/02/20",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 21
+ },
+ {
+   "Outbreak_ID": "a215W0000000mT2",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/02/09",
+   "End_Date": "2021/02/17",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 22
+ },
+ {
+   "Outbreak_ID": "a215W0000000mTq",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/02/09",
+   "End_Date": "2021/02/20",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 23
+ },
+ {
+   "Outbreak_ID": "a215W0000000mo0",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/02/14",
+   "End_Date": "2021/02/27",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 19
+ },
+ {
+   "Outbreak_ID": "a215W0000000n2b",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/02/17",
+   "End_Date": "2021/03/02",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 24
+ },
+ {
+   "Outbreak_ID": "a215W0000000nnc",
+   "Setting": "Multi-unit Dwelling",
+   "Start_Date": "2021/02/24",
+   "End_Date": "2021/03/20",
+   "Total_Cases": 12,
+   "Total_Deaths": 0,
+   "OBJECTID": 25
+ },
+ {
+   "Outbreak_ID": "a215W0000000oBF",
+   "Setting": "Workplace - Construction",
+   "Start_Date": "2021/02/26",
+   "End_Date": "2021/03/12",
+   "Total_Cases": 6,
+   "Total_Deaths": 0,
+   "OBJECTID": 26
+ },
+ {
+   "Outbreak_ID": "a215W0000000oDf",
+   "Setting": "Religious/Spiritual Organization",
+   "Start_Date": "2021/02/27",
+   "End_Date": "2021/03/07",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 27
+ },
+ {
+   "Outbreak_ID": "a215W0000000ol8",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/03/03",
+   "End_Date": "2021/03/09",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 28
+ },
+ {
+   "Outbreak_ID": "a215W0000000pKX",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/03/08",
+   "End_Date": "2021/03/24",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 29
+ },
+ {
+   "Outbreak_ID": "a215W0000000pMs",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/03/08",
+   "End_Date": "2021/03/13",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 31
+ },
+ {
+   "Outbreak_ID": "a215W0000000plJ",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/03/11",
+   "End_Date": "2021/03/18",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 30
+ },
+ {
+   "Outbreak_ID": "a215W0000000qSc",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/03/17",
+   "End_Date": "2021/03/28",
+   "Total_Cases": 8,
+   "Total_Deaths": 0,
+   "OBJECTID": 34
+ },
+ {
+   "Outbreak_ID": "a215W0000000qqU",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/03/20",
+   "End_Date": "2021/03/28",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 32
+ },
+ {
+   "Outbreak_ID": "a215W0000000qrr",
+   "Setting": "Workplace - Construction",
+   "Start_Date": "2021/03/20",
+   "End_Date": "2021/03/24",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 33
+ },
+ {
+   "Outbreak_ID": "a215W0000000qxk",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/03/21",
+   "End_Date": "2021/04/07",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 35
+ },
+ {
+   "Outbreak_ID": "a215W0000000r2k",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/03/22",
+   "End_Date": "2021/03/31",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 36
+ },
+ {
+   "Outbreak_ID": "a215W0000000rAe",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/03/23",
+   "End_Date": "2021/04/02",
+   "Total_Cases": 13,
+   "Total_Deaths": 0,
+   "OBJECTID": 37
+ },
+ {
+   "Outbreak_ID": "a215W0000000rCa",
+   "Setting": "Workplace - Construction",
+   "Start_Date": "2021/03/23",
+   "End_Date": "2021/04/02",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 38
+ },
+ {
+   "Outbreak_ID": "a215W0000000rFU",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/03/23",
+   "End_Date": "2021/03/31",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 39
+ },
+ {
+   "Outbreak_ID": "a215W0000000rGw",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/03/23",
+   "End_Date": "2021/04/01",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 40
+ },
+ {
+   "Outbreak_ID": "a215W0000000rMf",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/03/24",
+   "End_Date": "2021/04/10",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 41
+ },
+ {
+   "Outbreak_ID": "a215W0000000rYg",
+   "Setting": "Workplace - Recreation",
+   "Start_Date": "2021/03/25",
+   "End_Date": "2021/04/04",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 43
+ },
+ {
+   "Outbreak_ID": "a215W0000000rnq",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/03/26",
+   "End_Date": "2021/04/09",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 42
+ },
+ {
+   "Outbreak_ID": "a215W0000000s5Q",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/03/28",
+   "End_Date": "2021/04/11",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 44
+ },
+ {
+   "Outbreak_ID": "a215W0000000sF6",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/03/29",
+   "End_Date": "2021/04/30",
+   "Total_Cases": 31,
+   "Total_Deaths": 0,
+   "OBJECTID": 45
+ },
+ {
+   "Outbreak_ID": "a215W0000000sHD",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/03/29",
+   "End_Date": "2021/04/23",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 46
+ },
+ {
+   "Outbreak_ID": "a215W0000000sQJ",
+   "Setting": "Workplace - Construction",
+   "Start_Date": "2021/03/30",
+   "End_Date": "2021/04/15",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 48
+ },
+ {
+   "Outbreak_ID": "a215W0000000sok",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/03/31",
+   "End_Date": "2021/04/23",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 47
+ },
+ {
+   "Outbreak_ID": "a215W0000000t81",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/02",
+   "End_Date": "2021/04/12",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 49
+ },
+ {
+   "Outbreak_ID": "a215W0000000tB0",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/04/02",
+   "End_Date": "2021/04/12",
+   "Total_Cases": 6,
+   "Total_Deaths": 0,
+   "OBJECTID": 50
+ },
+ {
+   "Outbreak_ID": "a215W0000000tPM",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/04/05",
+   "End_Date": "2021/04/11",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 52
+ },
+ {
+   "Outbreak_ID": "a215W0000000tZg",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/05",
+   "End_Date": "2021/04/15",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 57
+ },
+ {
+   "Outbreak_ID": "a215W0000000tfo",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/06",
+   "End_Date": "2021/04/15",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 51
+ },
+ {
+   "Outbreak_ID": "a215W0000000tqh",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/04/06",
+   "End_Date": "2021/05/08",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 54
+ },
+ {
+   "Outbreak_ID": "a215W0000000tq3",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/04/07",
+   "End_Date": "2021/04/16",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 53
+ },
+ {
+   "Outbreak_ID": "a215W0000000tt2",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/07",
+   "End_Date": "2021/04/12",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 55
+ },
+ {
+   "Outbreak_ID": "a215W0000000txO",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/07",
+   "End_Date": "2021/04/17",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 56
+ },
+ {
+   "Outbreak_ID": "a215W0000000w3d",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/04/07",
+   "End_Date": "2021/04/22",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 70
+ },
+ {
+   "Outbreak_ID": "a215W0000000u5m",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/04/08",
+   "End_Date": "2021/04/10",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 58
+ },
+ {
+   "Outbreak_ID": "a215W0000000uDW",
+   "Setting": "Religious/Spiritual Organization",
+   "Start_Date": "2021/04/08",
+   "End_Date": "2021/04/16",
+   "Total_Cases": 21,
+   "Total_Deaths": 0,
+   "OBJECTID": 59
+ },
+ {
+   "Outbreak_ID": "a215W0000000wRL",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/04/08",
+   "End_Date": "2021/04/24",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 78
+ },
+ {
+   "Outbreak_ID": "a215W0000000x9r",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/08",
+   "End_Date": "2021/04/27",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 82
+ },
+ {
+   "Outbreak_ID": "a215W0000000uV6",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/04/09",
+   "End_Date": "2021/04/16",
+   "Total_Cases": 28,
+   "Total_Deaths": 0,
+   "OBJECTID": 60
+ },
+ {
+   "Outbreak_ID": "a215W0000000uVf",
+   "Setting": "Workplace - Construction",
+   "Start_Date": "2021/04/09",
+   "End_Date": "2021/04/20",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 61
+ },
+ {
+   "Outbreak_ID": "a215W0000000x2g",
+   "Setting": "Workplace - Manufacturing",
+   "Start_Date": "2021/04/10",
+   "End_Date": "2021/04/28",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 81
+ },
+ {
+   "Outbreak_ID": "a215W0000000vDS",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/04/14",
+   "End_Date": "2021/04/21",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 62
+ },
+ {
+   "Outbreak_ID": "a215W0000000vg5",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/04/15",
+   "End_Date": "2021/04/27",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 63
+ },
+ {
+   "Outbreak_ID": "a215W0000000vgU",
+   "Setting": "Workplace - Construction",
+   "Start_Date": "2021/04/15",
+   "End_Date": "2021/04/29",
+   "Total_Cases": 19,
+   "Total_Deaths": 0,
+   "OBJECTID": 64
+ },
+ {
+   "Outbreak_ID": "a215W0000000vjJ",
+   "Setting": "Workplace - Manufacturing",
+   "Start_Date": "2021/04/15",
+   "End_Date": "2021/05/08",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 65
+ },
+ {
+   "Outbreak_ID": "a215W0000000vos",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/04/16",
+   "End_Date": "2021/04/30",
+   "Total_Cases": 16,
+   "Total_Deaths": 0,
+   "OBJECTID": 66
+ },
+ {
+   "Outbreak_ID": "a215W0000000vpl",
+   "Setting": "Workplace - Manufacturing",
+   "Start_Date": "2021/04/16",
+   "End_Date": "2021/04/29",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 67
+ },
+ {
+   "Outbreak_ID": "a215W0000000vyd",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/17",
+   "End_Date": "2021/04/22",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 68
+ },
+ {
+   "Outbreak_ID": "a215W0000000vyn",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/17",
+   "End_Date": "2021/04/26",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 69
+ },
+ {
+   "Outbreak_ID": "a215W0000000w4g",
+   "Setting": "Workplace - Manufacturing",
+   "Start_Date": "2021/04/18",
+   "End_Date": "2021/04/30",
+   "Total_Cases": 6,
+   "Total_Deaths": 0,
+   "OBJECTID": 71
+ },
+ {
+   "Outbreak_ID": "a215W0000000w4W",
+   "Setting": "Workplace - Distribution",
+   "Start_Date": "2021/04/18",
+   "End_Date": "2021/04/24",
+   "Total_Cases": 6,
+   "Total_Deaths": 0,
+   "OBJECTID": 72
+ },
+ {
+   "Outbreak_ID": "a215W0000000w9q",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/04/19",
+   "End_Date": "2021/04/29",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 73
+ },
+ {
+   "Outbreak_ID": "a215W0000000wEv",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/04/19",
+   "End_Date": "2021/04/28",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 75
+ },
+ {
+   "Outbreak_ID": "a215W0000000wFU",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/04/19",
+   "End_Date": "2021/05/10",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 76
+ },
+ {
+   "Outbreak_ID": "a215W0000000wXE",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/04/20",
+   "End_Date": "2021/05/11",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 80
+ },
+ {
+   "Outbreak_ID": "a215W0000000wet",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/04/21",
+   "End_Date": "2021/05/02",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 74
+ },
+ {
+   "Outbreak_ID": "a215W0000000xr5",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/04/22",
+   "End_Date": "2021/05/07",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 84
+ },
+ {
+   "Outbreak_ID": "a215W0000000yjq",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/04/22",
+   "End_Date": "2021/05/07",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 86
+ },
+ {
+   "Outbreak_ID": "a215W0000000wms",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/04/23",
+   "End_Date": "2021/04/26",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 77
+ },
+ {
+   "Outbreak_ID": "a215W0000000wvu",
+   "Setting": "Workplace - Agriculture",
+   "Start_Date": "2021/04/23",
+   "End_Date": "2021/05/24",
+   "Total_Cases": 43,
+   "Total_Deaths": 0,
+   "OBJECTID": 79
+ },
+ {
+   "Outbreak_ID": "a215W0000000x9w",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/04/25",
+   "End_Date": "2021/05/02",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 83
+ },
+ {
+   "Outbreak_ID": "a215W0000000ynY",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/04/30",
+   "End_Date": "2021/05/07",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 88
+ },
+ {
+   "Outbreak_ID": "a215W0000000y8a",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/05/01",
+   "End_Date": "2021/05/13",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 85
+ },
+ {
+   "Outbreak_ID": "a215W0000000ykt",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/05/04",
+   "End_Date": "2021/05/14",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 87
+ },
+ {
+   "Outbreak_ID": "a215W0000000zrC",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/05/13",
+   "End_Date": "2021/06/02",
+   "Total_Cases": 15,
+   "Total_Deaths": 0,
+   "OBJECTID": 89
+ },
+ {
+   "Outbreak_ID": "a215W00000010fH",
+   "Setting": "Workplace - Construction",
+   "Start_Date": "2021/05/17",
+   "End_Date": "2021/06/05",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 90
+ },
+ {
+   "Outbreak_ID": "a215W00000010kH",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/05/18",
+   "End_Date": "2021/06/05",
+   "Total_Cases": 13,
+   "Total_Deaths": 0,
+   "OBJECTID": 91
+ },
+ {
+   "Outbreak_ID": "a215W000000114g",
+   "Setting": "Workplace - Services",
+   "Start_Date": "2021/05/20",
+   "End_Date": "2021/06/04",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 93
+ },
+ {
+   "Outbreak_ID": "a215W00000010mh",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/05/21",
+   "End_Date": "2021/05/29",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 92
+ },
+ {
+   "Outbreak_ID": "a215W00000011y5",
+   "Setting": "Workplace - Distribution",
+   "Start_Date": "2021/06/05",
+   "End_Date": "2021/06/23",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 94
+ },
+ {
+   "Outbreak_ID": "a215W00000012Qx",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/06/10",
+   "End_Date": "2021/06/28",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 96
+ },
+ {
+   "Outbreak_ID": "a215W00000012WR",
+   "Setting": "Workplace - Hotel/Bed & Breakfast",
+   "Start_Date": "2021/06/16",
+   "End_Date": "2021/07/01",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 97
+ },
+ {
+   "Outbreak_ID": "a215W00000012jk",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/06/19",
+   "End_Date": "2021/07/04",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 95
+ },
+ {
+   "Outbreak_ID": "a215W00000015ZJ",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/08/15",
+   "End_Date": "2021/08/28",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 98
+ },
+ {
+   "Outbreak_ID": "a215W00000015ZY",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/08/16",
+   "End_Date": "2021/08/28",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 99
+ },
+ {
+   "Outbreak_ID": "a215W00000016i7",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/08/27",
+   "End_Date": "2021/09/18",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 100
+ },
+ {
+   "Outbreak_ID": "a215W00000016jt",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/08/31",
+   "End_Date": "2021/09/06",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 101
+ },
+ {
+   "Outbreak_ID": "a215W00000018aA",
+   "Setting": "Social Event - Private",
+   "Start_Date": "2021/09/21",
+   "End_Date": "2021/10/02",
+   "Total_Cases": 5,
+   "Total_Deaths": 0,
+   "OBJECTID": 102
+ },
+ {
+   "Outbreak_ID": "a215W00000019Ng",
+   "Setting": "Workplace - Manufacturing",
+   "Start_Date": "2021/09/28",
+   "End_Date": "2021/10/08",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 104
+ },
+ {
+   "Outbreak_ID": "a215W00000019g4",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/09/29",
+   "End_Date": "2021/10/17",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 103
+ },
+ {
+   "Outbreak_ID": "a215W00000019wR",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/09/30",
+   "End_Date": "2021/10/14",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 105
+ },
+ {
+   "Outbreak_ID": "a215W0000001AbF",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/10/03",
+   "End_Date": "2021/10/21",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 106
+ },
+ {
+   "Outbreak_ID": "a215W0000001CEw",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/10/17",
+   "End_Date": "2021/10/27",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 109
+ },
+ {
+   "Outbreak_ID": "a215W0000001Cvb",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/10/20",
+   "End_Date": "2021/11/02",
+   "Total_Cases": 6,
+   "Total_Deaths": 0,
+   "OBJECTID": 110
+ },
+ {
+   "Outbreak_ID": "a215W0000001G6r",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/10/26",
+   "End_Date": "2021/11/20",
+   "Total_Cases": 10,
+   "Total_Deaths": 0,
+   "OBJECTID": 111
+ },
+ {
+   "Outbreak_ID": "a215W0000001HRa",
+   "Setting": "Workplace - Recreation",
+   "Start_Date": "2021/11/06",
+   "End_Date": "2021/11/29",
+   "Total_Cases": 16,
+   "Total_Deaths": 0,
+   "OBJECTID": 112
+ },
+ {
+   "Outbreak_ID": "a215W0000001LcX",
+   "Setting": "Workplace - Manufacturing",
+   "Start_Date": "2021/11/23",
+   "End_Date": "2021/12/06",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 113
+ },
+ {
+   "Outbreak_ID": "a215W0000001LZd",
+   "Setting": "Multi-unit Dwelling",
+   "Start_Date": "2021/11/25",
+   "End_Date": "2021/12/11",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 114
+ },
+ {
+   "Outbreak_ID": "a215W0000001MmY",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/11/30",
+   "End_Date": "2021/12/15",
+   "Total_Cases": 61,
+   "Total_Deaths": 0,
+   "OBJECTID": 115
+ },
+ {
+   "Outbreak_ID": "a215W0000001N1O",
+   "Setting": "Religious/Spiritual Organization",
+   "Start_Date": "2021/12/01",
+   "End_Date": "2021/12/17",
+   "Total_Cases": 9,
+   "Total_Deaths": 0,
+   "OBJECTID": 116
+ },
+ {
+   "Outbreak_ID": "a215W0000001PHY",
+   "Setting": "Workplace - Corporate/Office",
+   "Start_Date": "2021/12/09",
+   "End_Date": "2021/12/21",
+   "Total_Cases": 3,
+   "Total_Deaths": 0,
+   "OBJECTID": 117
+ },
+ {
+   "Outbreak_ID": "a215W0000001PYj",
+   "Setting": "Workplace - Health",
+   "Start_Date": "2021/12/10",
+   "End_Date": "2021/12/18",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 118
+ },
+ {
+   "Outbreak_ID": "a215W0000001QJR",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/12/13",
+   "End_Date": "2021/12/23",
+   "Total_Cases": 19,
+   "Total_Deaths": 0,
+   "OBJECTID": 119
+ },
+ {
+   "Outbreak_ID": "a215W0000001QOa",
+   "Setting": "Workplace - Recreation",
+   "Start_Date": "2021/12/13",
+   "End_Date": "2021/12/21",
+   "Total_Cases": 8,
+   "Total_Deaths": 0,
+   "OBJECTID": 120
+ },
+ {
+   "Outbreak_ID": "a215W0000001QPn",
+   "Setting": "Workplace - Warehouse",
+   "Start_Date": "2021/12/14",
+   "End_Date": "2021/12/16",
+   "Total_Cases": 2,
+   "Total_Deaths": 0,
+   "OBJECTID": 121
+ },
+ {
+   "Outbreak_ID": "a215W0000001QPO",
+   "Setting": "Workplace - Retail",
+   "Start_Date": "2021/12/14",
+   "End_Date": "2021/12/25",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 122
+ },
+ {
+   "Outbreak_ID": "a215W0000001QrI",
+   "Setting": "Workplace - Restaurant",
+   "Start_Date": "2021/12/14",
+   "End_Date": "2021/12/26",
+   "Total_Cases": 13,
+   "Total_Deaths": 0,
+   "OBJECTID": 123
+ },
+ {
+   "Outbreak_ID": "a215W0000001TdT",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/12/22",
+   "End_Date": "2022/01/02",
+   "Total_Cases": 4,
+   "Total_Deaths": 0,
+   "OBJECTID": 124
+ },
+ {
+   "Outbreak_ID": "a215W0000001TS1",
+   "Setting": "Sports & Recreation",
+   "Start_Date": "2021/12/22",
+   "End_Date": "2021/12/29",
+   "Total_Cases": 7,
+   "Total_Deaths": 0,
+   "OBJECTID": 127
+ }
+]
